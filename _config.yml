@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Mink的个人博客
 subtitle: ''
-description: ''
+description: '用于记录一些有意思的事'
 keywords:
-author: John Doe
+author: Mink
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Kratos-Rebirth
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
