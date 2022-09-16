@@ -1,0 +1,29 @@
+---
+title: SQL优化
+date: 2022-09-14 18:00:05
+tags: [sql]
+---
+
+### 十万条数据用全匹配查询
+
+SELECT * FROM index_test;
+
+48.459 s
+
+![image-20220329163736996](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329163736996.png)
+
+
+
+![image-20220329164458264](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329164458264.png)
+
+走index索引
+
+0.35s
+
+
+
+![image-20220329164957753](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329164957753.png)
+
+不走
+
+0.38
