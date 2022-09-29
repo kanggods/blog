@@ -10,11 +10,11 @@ SELECT * FROM index_test;
 
 48.459 s
 
-![image-20220329163736996](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329163736996.png)
+![image-20220329163736996](http://114.55.238.234:9000/images\image-20220329163736996.png)
 
 
 
-![image-20220329164458264](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329164458264.png)
+![image-20220329164458264](http://114.55.238.234:9000/images\image-20220329164458264.png)
 
 走index索引
 
@@ -22,7 +22,7 @@ SELECT * FROM index_test;
 
 
 
-![image-20220329164957753](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220329164957753.png)
+![image-20220329164957753](http://114.55.238.234:9000/images\image-20220329164957753.png)
 
 不走
 

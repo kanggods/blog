@@ -62,9 +62,9 @@ categories: Java基础
 
 
 
-![image-20220923104626763](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220923104626763.png)
+![image-20220923104626763](http://114.55.238.234:9000/images\image-20220923104626763.png)
 
-![image-20220923104724909](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220923104724909.png)
+![image-20220923104724909](http://114.55.238.234:9000/images\image-20220923104724909.png)
 
 
 
