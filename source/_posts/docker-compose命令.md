@@ -2,7 +2,7 @@
 title: docker-compose命令
 date: 2022-08-04 14:53:08
 tags: [docker-compose,命令]
-categories: 命令
+categories: [docker,部署]
 ---
 ## 停掉服务，删除容器，不删除镜像
 ```shell

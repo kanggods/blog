@@ -2,7 +2,7 @@
 title: docker常用命令
 date: 2022-07-01 15:53:36
 tags: [docker,命令]
-categories: docker
+categories: [docker,部署]
 ---
 # docker
 ## 启动docker服务

@@ -2,7 +2,7 @@
 title: docker安装MySQL
 date: 2022-07-01 11:49:00
 tags: [docker,MySQL]
-categories: docker
+categories: [docker,部署]
 ---
 ## 拉取5.7的镜像
 ```shell

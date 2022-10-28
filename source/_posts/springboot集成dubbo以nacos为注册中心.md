@@ -1,8 +1,8 @@
 ---
 title: springboot集成dubbo以nacos为注册中心
 date: 2022-09-14 18:00:05
-categories: RPC
-tags: [Dubbo,Nacos]
+categories: [SpringBoot,集成框架]
+tags: [RPC]
 ---
 ### 1、依赖导入
 

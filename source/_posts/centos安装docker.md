@@ -1,12 +1,11 @@
 ---
 title: centos安装docker
-date: 2022-07-01 10:57:10
+date: {{ date }}
+categories: [centos装机必备,docker]
 tags: [centos,docker]
-categories: centos装机必备
-only:
-- home
-- category
-- tag
+pic:
+comments: true
+toc: true
 ---
 ## 卸载旧版本
 ```shell

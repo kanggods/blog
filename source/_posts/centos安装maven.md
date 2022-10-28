@@ -1,8 +1,8 @@
 ---
 title: centos安装maven
-date: 2022-08-04 15:22:00
+date: {{date}}
 tags: [centos,maven]
-categories: centos
+categories: [centos装机必备,环境]
 ---
 ## 进入目录
 ```shell

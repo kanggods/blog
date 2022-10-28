@@ -2,7 +2,7 @@
 title: docker部署ELK
 date: 2022-09-14 18:00:05
 tags: [docker]
-categories: docker
+categories: [docker,部署]
 ---
 # Linux命令
 

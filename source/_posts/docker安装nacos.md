@@ -2,7 +2,7 @@
 title: docker安装nacos
 date: 2022-07-01 11:49:11
 tags: [docker,nacos]
-categories: docker
+categories: [docker,部署]
 ---
 ## 拉取docker镜像
 ```shell

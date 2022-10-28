@@ -2,7 +2,7 @@
 title: centos安装nginx
 date: 2022-07-01 11:23:10
 tags: [centos,nginx]
-categories: centos装机必备
+categories: [centos装机必备,环境]
 ---
 ## 安装依赖
 ```shell

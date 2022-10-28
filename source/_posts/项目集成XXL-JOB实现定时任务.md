@@ -1,8 +1,9 @@
 ---
 title: SpringBoot集成Xxl-job做定时任务
-date: 2022-10-26 18:00:05
+date: {{date}}
+pic: http://42.194.208.171:9000/images/mink.jpg
 tags: [SpringBoot,定时任务]
-categories: SpringBoot集成框架
+categories: [SpringBoot,集成框架]
 ---
 ### 1、XXL-JOB实现定时任务条件
 

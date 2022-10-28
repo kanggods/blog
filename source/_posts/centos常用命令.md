@@ -2,7 +2,7 @@
 title: centos常用命令
 date: 2022-07-01 11:39:11
 tags: [centos,命令]
-categories: 命令
+categories: [centos装机必备,命令]
 ---
 ## 开启防火墙
 ```shell
