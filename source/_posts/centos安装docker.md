@@ -3,6 +3,10 @@ title: centos安装docker
 date: 2022-07-01 10:57:10
 tags: [centos,docker]
 categories: centos装机必备
+only:
+- home
+- category
+- tag
 ---
 ## 卸载旧版本
 ```shell
