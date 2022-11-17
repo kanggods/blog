@@ -1,7 +1,6 @@
 ---
 title: SpringBoot集成Xxl-job做定时任务
 date: {{date}}
-pic: http://42.194.208.171:9000/images/mink.jpg
 tags: [SpringBoot,定时任务]
 categories: [SpringBoot,集成框架]
 ---
