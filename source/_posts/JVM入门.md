@@ -62,7 +62,7 @@ categories: Java基础
 
 
 
-![image-20220923104626763](http://114.55.238.234:9000/images\image-20220923104626763.png)
+![image-20220923104626763](https://blog.minkimm.cn/images/mink.jpg)
 
 ![image-20220923104724909](http://114.55.238.234:9000/images\image-20220923104724909.png)
 
