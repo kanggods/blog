@@ -42,7 +42,7 @@ Query：具体的执行语句，具体内容稍后解释。
 Rotate:这个类型前面的文章也介绍了，这是binlog文件中的最后一个event，记录下一个binlog的信息。
 ```
 
-show binLog status 查看当前使用那个库
+show binlog status 查看当前使用那个库
 
 使用show binlog events in "log_name" 命令查看具体的内容
 
